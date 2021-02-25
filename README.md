@@ -41,26 +41,26 @@ var conA = people[0];
 var conB = people[1];
 ```
 
-This allows us to quickly and easily change the contestants around, but keep which fun facts we want to display. Go ahead and swap the `1` to `0` so that it looks like this:
+This allows us to quickly and easily change the contestants around, but keep which fun facts we want to display. Go ahead and swap the `1` and `0` so that it looks like this:
 
 ```js
 var conA = people[1];
 var conB = people[0];
 ```
 
-Ideally, your preview would now looks something like this:
+_Ideally_, your preview would now look something like this:
 
 <img src="img/objects-cc-02.png">
 
 But it probably doesn't. Why not? Because as we construct our data, we want to make sure it's thorough. For example, if **Robert** has a nickname, we need to make sure **Layla** has one too, just in case it gets used. Essentially, our properties should (generally) be consistent from object to object.
 
-Go ahead and update your `people` variable so that you have consistent properties and the preview matches the screenshot above.
+Go ahead and update your `people` variable so that you have consistent properties and the preview matches the screenshot above. Do **NOT** change any of the `document.write()`s.
 
 ## Task 3: Make a third contestant!
 
 You heard me. You'll have to add:
 * to your `people` array
-* some `document.write()`s
+* some `document.write()`s at the bottom
 
 For the image, choose any number up to `99` from the `men` or `women`.
 
