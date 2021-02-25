@@ -54,7 +54,7 @@ _Ideally_, your preview would now look something like this:
 
 But it probably doesn't. Why not? Because as we construct our data, we want to make sure it's thorough. For example, if **Robert** has a nickname, we need to make sure **Layla** has one too, just in case it gets used. Essentially, our properties should (generally) be consistent from object to object.
 
-Go ahead and update your `people` variable so that you have consistent properties and the preview matches the screenshot above. Do **NOT** change any of the `document.write()`s.
+Go ahead and update your `people` variable so that you have consistent properties for each contestant and the preview matches the screenshot above. Do **NOT** change any of the `document.write()`s. NOTE: the comments for those will no longer match the right contestants, but don't worry about that.
 
 ## Task 3: Make a third contestant!
 
