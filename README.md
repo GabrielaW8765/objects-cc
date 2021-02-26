@@ -8,7 +8,7 @@ Here is what you are starting with:
 
 As you can see, there's not much there yet!
 
-But before you move on to Task 1, observe the starter code and study how it produces the current output.
+But before you move on to Task 1, observe the starter code in `script.js` and study how it produces the current output.
 
 ## Task 1: Finish contestants A and B
 
